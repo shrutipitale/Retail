@@ -10,6 +10,9 @@ Order Price: Analyze the distribution of order prices, seasonal trends, and the 
 
 Customer Satisfaction: Assess customer satisfaction through ratings and reviews, and identify factors that influence customer happiness.
 
+### Kaggle Link:
+https://www.kaggle.com/datasets/muhammadshahrayar/transactional-retail-dataset-of-electronics-store
+
 This dataset includes the following information:
 - **order_id**: Unique identifier for each order.
 - **customer_id**: Unique identifier for each customer.
