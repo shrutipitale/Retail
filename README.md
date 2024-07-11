@@ -28,4 +28,16 @@ This dataset includes the following information:
 - **latest_customer_review**: Text of the latest review provided by the customer.
 - **is_happy_customer**: Binary indicator of whether the customer was happy with the order (1 for happy, 0 for unhappy).
 
+Output:
+### Quantity of the Warehouse
+
+![Quantity of the Warehouse](https://github.com/shrutipitale/Retail/assets/80112581/5eb9834c-26e3-43fb-8fa6-ef85bf4d78cf)
+
+### Pie chart - Quantity of the Warehouse
+
+![Pie Quantity of the Warehouse](https://github.com/shrutipitale/Retail/assets/80112581/ce457b1d-a70f-4319-831f-ece175bd13d5)
+
+### Customer Satisfaction Vs Not Satisfaction and Percentage
+
+![Customer Satisfaction Vs Not Satisfaction and Percentage](https://github.com/shrutipitale/Retail/assets/80112581/82d3f325-913d-4a43-a388-2fb31977b3d0)
 
